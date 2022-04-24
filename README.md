@@ -1,4 +1,4 @@
-# ScreenShotSoftwareForLinux 2.0!
+# ScreenShotSoftwareForLinux 3.0!
 Too big for github lol.
 So I did not had much time. So download at Google Drive.
 Link: https://drive.google.com/drive/folders/14d1lVIxOmYW-EsrWI-WjC69PKGDlO5S5?usp=sharing
